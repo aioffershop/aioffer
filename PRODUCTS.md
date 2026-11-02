@@ -65,3 +65,14 @@ Check CPU, RAM, storage, transfer, operating system and provisioning requirement
 ## Before paying
 
 Confirm the exact product, plan and duration. Read the [payment guide](CRYPTO-PAYMENTS.md), then check the delivery and refund terms displayed by the store. No listing in this directory guarantees stock or immediate delivery.
+
+## Pricing guides and billing checks
+
+Use these guides to distinguish provider reference prices from the particular store offer. Confirm the live listing before buying; provider names and entitlements can change.
+
+| Question | Guide |
+| --- | --- |
+| How do Free, AI Plus, Pro and Ultra compare? | [Google Gemini cost guide](https://aioffer.shop/en/blog/gemini-price-plans) |
+| What is monthly versus annual Pro billing, and how do current Claude names differ? | [Claude pricing guide](https://aioffer.shop/en/blog/claude-pricing) |
+| How should older SuperGrok labels be compared with current plans? | [Grok pricing guide](https://aioffer.shop/en/blog/grok-pricing) |
+| What is Runway's annual monthly equivalent, and how should I budget for generation attempts? | [Runway pricing guide](https://aioffer.shop/en/blog/runway-pricing) |
