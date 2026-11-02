@@ -1,88 +1,67 @@
-# AIOFFER Products Directory
+# AIOFFER product directory
 
-Explore digital products, AI tools, software subscriptions, and online services available through [AIOFFER](https://aioffer.shop/).
+Browse specific listings to compare plans and buy with crypto using the currencies and networks available at checkout. Prices, account arrangements and availability can change; verify the live listing before ordering.
 
-Our catalog helps users discover digital services and compare available options based on their needs, budget, and intended use.
+## AI subscriptions
 
-## Product Categories
+Check model access, usage limits, account type and whether the plan includes API credits or only application access.
 
-### 1. AI Tools and Services
+- [ChatGPT](https://aioffer.shop/en/ai/chatgpt)
+- [Claude](https://aioffer.shop/en/ai/claude)
+- [Gemini](https://aioffer.shop/en/ai/gemini)
+- [Grok](https://aioffer.shop/en/ai/grok)
+- [Midjourney](https://aioffer.shop/en/ai/midjourney)
+- [Perplexity](https://aioffer.shop/en/ai/perplexity)
+- [Cursor](https://aioffer.shop/en/ai/cursor)
+- [GitHub Copilot](https://aioffer.shop/en/ai/github-copilot)
+- [ElevenLabs](https://aioffer.shop/en/ai/elevenlabs)
+- [Runway](https://aioffer.shop/en/ai/runway)
 
-Discover AI-powered products for productivity, content creation, research, writing, and other digital workflows.
+## Software and productivity
 
-Browse the AI category:
+Check device compatibility, license duration, account eligibility and activation method.
 
-https://aioffer.shop/en/ai
+- [Canva](https://aioffer.shop/en/software/canva)
+- [CapCut](https://aioffer.shop/en/software/capcut)
+- [Adobe Photoshop](https://aioffer.shop/en/software/adobe-photoshop)
+- [Adobe Creative Cloud](https://aioffer.shop/en/software/adobe-creative-cloud)
+- [Microsoft 365](https://aioffer.shop/en/software/microsoft-365)
+- [Grammarly](https://aioffer.shop/en/software/grammarly)
+- [Notion](https://aioffer.shop/en/software/notion)
+- [LinkedIn Premium](https://aioffer.shop/en/software/linkedin-premium)
+- [TradingView](https://aioffer.shop/en/software/tradingview)
 
-When choosing an AI subscription, consider:
+## Video, music and entertainment
 
-- Available features and usage limits
-- Supported models and tools
-- Subscription duration
-- Account requirements
-- Compatibility with your workflow
-- Renewal and cancellation terms
+Check country restrictions, account type, supported devices and subscription duration.
 
-### 2. Software Subscriptions
+- [YouTube Premium](https://aioffer.shop/en/entertainment/youtube-premium)
+- [YouTube Music](https://aioffer.shop/en/entertainment/youtube-music)
+- [Netflix](https://aioffer.shop/en/entertainment/netflix)
+- [Spotify](https://aioffer.shop/en/entertainment/spotify)
+- [Disney+](https://aioffer.shop/en/entertainment/disney-plus)
+- [HBO Max](https://aioffer.shop/en/entertainment/hbo-max)
+- [Prime Video](https://aioffer.shop/en/entertainment/prime-video)
+- [Telegram Premium](https://aioffer.shop/en/entertainment/telegram-premium)
+- [Discord Nitro](https://aioffer.shop/en/entertainment/discord-nitro)
+- [X Premium](https://aioffer.shop/en/entertainment/x-premium)
 
-Explore software products and subscription options for personal and professional use.
+## VPN services
 
-Before purchasing, check the supported operating systems, available features, license duration, and activation requirements listed on the relevant product page.
+Check supported devices, simultaneous connections, locations and subscription duration.
 
-### 3. VPN and Online Privacy Tools
+- [NordVPN](https://aioffer.shop/en/vpn/nordvpn)
+- [ExpressVPN](https://aioffer.shop/en/vpn/expressvpn)
+- [Surfshark](https://aioffer.shop/en/vpn/surfshark)
 
-Discover digital services designed to support online privacy and connectivity.
+## VPS hosting
 
-Compare available plans by considering:
+Check CPU, RAM, storage, transfer, operating system and provisioning requirements. See the [VPS checklist](VPS-GUIDE.md).
 
-- Supported devices and operating systems
-- Number of simultaneous connections
-- Available locations and server options
-- Subscription duration
-- Renewal conditions
+- [Linux VPS](https://aioffer.shop/en/hosting/linux-vps)
+- [Windows VPS](https://aioffer.shop/en/hosting/windows-vps)
+- [Storage VPS](https://aioffer.shop/en/hosting/storage-vps)
 
-Actual features depend on the specific product and plan.
+## Before paying
 
-### 4. Gaming and Entertainment
-
-Explore digital products and services related to gaming and entertainment.
-
-Review platform compatibility, regional restrictions, product type, and activation instructions before placing an order.
-
-### 5. Other Digital Products
-
-The AIOFFER catalog may include additional software, online services, and digital products.
-
-Visit the website to explore the current catalog and available offers.
-
-## How to Choose the Right Product
-
-Use this checklist before purchasing:
-
-1. Identify the features you actually need.
-2. Compare the available subscription plans.
-3. Check the subscription duration and usage limits.
-4. Review device compatibility and regional restrictions.
-5. Read the activation, delivery, refund, and support terms.
-6. Confirm the final price and any additional conditions.
-7. Follow the purchase instructions provided on the product page.
-
-## Pricing and Availability
-
-Prices, promotions, product availability, and subscription terms may change.
-
-For the latest information, always refer to the relevant product page on AIOFFER.
-
-**Official website:** https://aioffer.shop/
-
-**AI products:** https://aioffer.shop/en/ai
-
-## Important Information
-
-Product features, activation methods, and account requirements can vary between products.
-
-Please review the specific product description and applicable terms before purchasing. Product names and trademarks belong to their respective owners. Their appearance in this directory does not imply endorsement or official affiliation.
-
----
-
-*This directory is intended to help users discover and evaluate digital products. It is not a guarantee of availability, compatibility, or specific product features.*
+Confirm the exact product, plan and duration. Read the [payment guide](CRYPTO-PAYMENTS.md), then check the delivery and refund terms displayed by the store. No listing in this directory guarantees stock or immediate delivery.

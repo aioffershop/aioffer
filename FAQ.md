@@ -117,3 +117,15 @@ For product-specific questions, consult the relevant listing and the support inf
 ---
 
 *This FAQ is general guidance and does not replace the product description, checkout terms, or applicable policies published by AIOFFER.*
+
+## Can I buy with crypto, and is there a minimum?
+
+Use the currency and network offered by the live checkout. New crypto deposits have a $10 minimum; for a smaller order, the remaining value becomes account wallet credit after verified payment. Read the [payment guide](CRYPTO-PAYMENTS.md) for the sequence and an example.
+
+## Does entering a TXID activate my product?
+
+No. The transaction must be verified first. Payment status and delivery status are separate; follow both in your order details.
+
+## Where are the VPS products?
+
+Browse [VPS hosting](https://aioffer.shop/en/hosting), or use the [VPS selection checklist](VPS-GUIDE.md) to compare Linux, Windows and storage requirements.

@@ -1,62 +1,34 @@
-# AIOFFER — Discover AI Tools, Software & Digital Deals
+# AIOFFER: AI subscriptions, software and VPS hosting
 
-**Website:** https://aioffer.shop/
+[AIOFFER](https://aioffer.shop/en) is an independent marketplace for digital subscriptions and hosting. This repository contains public buying guides and a directory of product pages; it does not contain the store's application source code.
 
-AIOFFER is an online marketplace for discovering AI tools, software subscriptions, digital services, and special offers in one place.
+## Find a product
 
-Our goal is to make it easier to explore digital products, compare available plans, and find offers that fit different needs and budgets.
+- [AI tools](https://aioffer.shop/en/ai): writing, research, coding and creative workflows.
+- [Software](https://aioffer.shop/en/software): productivity, design and business subscriptions.
+- [Entertainment](https://aioffer.shop/en/entertainment): music and video subscriptions.
+- [VPS hosting](https://aioffer.shop/en/hosting): Linux, Windows and storage plans.
 
-## What You Can Discover
+Use the [product directory](PRODUCTS.md) to open a specific listing. Compare the actual plan, account type, duration, regional eligibility and activation requirements before purchasing. Current prices and stock belong on the live listing rather than in a static README.
 
-- **AI Tools:** Explore AI-powered tools and services for productivity, creativity, writing, and everyday work.
-- **Software Subscriptions:** Discover software products and subscription plans.
-- **VPN & Online Privacy:** Explore VPN services and related digital products.
-- **Gaming & Entertainment:** Find digital products for gaming and entertainment.
-- **Digital Deals:** Browse available promotions and special offers.
+## Buying with cryptocurrency
 
-## Why AIOFFER?
+Choose the currency and network offered at checkout, review the destination and exact amount, and submit the transaction ID after sending payment. Submitting a TXID alone does not confirm payment or activate a product.
 
-AIOFFER brings different categories of digital products together, helping users discover relevant services without searching across multiple stores.
+The [crypto payment guide](CRYPTO-PAYMENTS.md) explains the checkout steps, the minimum deposit and the difference between transaction confirmation and product delivery. See the [FAQ](FAQ.md) for account, renewal and order questions.
 
-We aim to provide clear product information, transparent pricing, and an easy way to explore available digital offers.
+## Choose a VPS
 
-## Explore AIOFFER
+Read the [VPS selection checklist](VPS-GUIDE.md) before choosing Linux, Windows or storage hosting. Confirm the operating system, resources, location and provisioning requirements on the live listing.
 
-Visit our website to discover available products and current offers:
+## Documentation and corrections
 
-**https://aioffer.shop/**
+- [Product directory](PRODUCTS.md)
+- [Cryptocurrency payment guide](CRYPTO-PAYMENTS.md)
+- [VPS selection checklist](VPS-GUIDE.md)
+- [Frequently asked questions](FAQ.md)
+- [Contributing](CONTRIBUTING.md)
 
-Browse AI products:
+For private order issues, use the support channel on the website. Do not post order details or payment credentials in GitHub issues.
 
-https://aioffer.shop/en/ai
-
-## Who Is AIOFFER For?
-
-AIOFFER is designed for people who want to explore AI tools, digital software, online services, and subscription offers for personal or professional use.
-
-Whether you are exploring AI for the first time or looking for software to support your workflow, you can browse our catalog to discover available options.
-
-## Project Information
-
-AIOFFER is an independent online digital marketplace.
-
-For current product availability, pricing, subscription details, and purchase terms, please refer to the relevant product pages on our website.
-
-- Website: https://aioffer.shop/
-- AI Products: https://aioffer.shop/en/ai
-
-## Stay Connected
-
-Visit [AIOFFER.shop](https://aioffer.shop/) to explore AI tools, software subscriptions, and digital deals.
-
-*Product names and trademarks belong to their respective owners. Their mention does not necessarily imply endorsement or affiliation.*
-
-## Documentation
-
-Products Directory — Explore product categories and learn how to choose digital products.
-
-Frequently Asked Questions — Find answers about products, orders, payments, and subscriptions.
-
-Contributing Guide — Learn how to suggest improvements to this repository.
-
-Visit the official website: https://aioffer.shop/
+AIOFFER is independent. Product names and trademarks belong to their respective owners; a listing does not establish an official partnership.
