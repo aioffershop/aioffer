@@ -13,9 +13,13 @@ Use the [product directory](PRODUCTS.md) to open a specific listing. Compare the
 
 ## Buying with cryptocurrency
 
-Choose the currency and network offered at checkout, review the destination and exact amount, and submit the transaction ID after sending payment. Submitting a TXID alone does not confirm payment or activate a product.
+Review the order, sign in and fund any shortfall in your AIOFFER balance. Manual top-ups need transaction review and administrator approval before spending. After crediting, continue to the order and complete any required monthly renewal-contract step; funding and product activation are separate stages.
 
 The [crypto payment guide](CRYPTO-PAYMENTS.md) explains the checkout steps, the minimum deposit and the difference between transaction confirmation and product delivery. See the [FAQ](FAQ.md) for account, renewal and order questions.
+
+## Compare Gemini, Claude and Grok
+
+Read the [AI subscription buying checklist](AI-SUBSCRIPTIONS.md) for plan-name differences, account choices and the wallet-first checkout sequence. It links to the live product pages and detailed pricing guides.
 
 ## Choose a VPS
 
@@ -25,6 +29,7 @@ Read the [VPS selection checklist](VPS-GUIDE.md) before choosing Linux, Windows 
 
 - [Product directory](PRODUCTS.md)
 - [Cryptocurrency payment guide](CRYPTO-PAYMENTS.md)
+- [Gemini, Claude and Grok buying checklist](AI-SUBSCRIPTIONS.md)
 - [VPS selection checklist](VPS-GUIDE.md)
 - [Frequently asked questions](FAQ.md)
 - [Contributing](CONTRIBUTING.md)

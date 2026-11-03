@@ -1,33 +1,39 @@
-# Buying digital products with crypto on AIOFFER
+# Funding an AIOFFER wallet and buying with crypto
 
-This guide describes the checkout sequence. The live checkout is the source of truth for supported currencies, networks, destination addresses and amounts.
+Review the live product, account arrangement and renewal requirements before sending funds. This document contains no payment addresses; use only the current checkout instructions.
 
-## 1. Review the selected product
+## 1. Choose the order and sign in
 
-Select the product, plan and duration before checkout. Confirm the account type, regional requirements and delivery terms on its listing. Use the [product directory](PRODUCTS.md) to find a listing.
+Select a product and plan. Checkout displays the order before login. Continue with Google or email and return to the selected checkout. Signing in does not itself make a charge.
 
-## 2. Select currency and network
+## 2. Fund the balance shortfall
 
-Choose an option offered by checkout. A token name alone is not enough: USDT on Tron and USDT on Ethereum use different networks. Match the network shown by checkout to the withdrawal network in your sending wallet or exchange.
+If the spendable balance covers the order, no new deposit is needed. Otherwise checkout suggests a top-up covering the shortfall, with a minimum of **$10**. Unused credit remains in the AIOFFER wallet for later purchases. Gift credits can be locked until the first qualifying purchase.
 
-## 3. Check the minimum payment
+A $6 order with no balance needs a $10 top-up and leaves $4 after purchase. This is an example, not a product price or exchange-rate quote.
 
-New crypto deposits have a $10 minimum. When an order costs less than $10, the remaining value is credited to the AIOFFER account wallet after the payment is verified. For example, a $6 order funded with the required $10 leaves $4 as account wallet credit. This is an internal account balance, distinct from the external wallet sending the transaction.
+## 3. Select the asset and network
 
-Use the exact cryptocurrency amount displayed by checkout; the dollar example is not a cryptocurrency conversion quote. Account for any withdrawal fee so the destination receives the required amount.
+USDT on Tron (TRC20), USDT on Ethereum (ERC20) and native ETH are different payment choices. Match the selected network and asset in the sending app. Compare the actual network or exchange fee; no network is guaranteed to be cheapest.
 
-## 4. Send payment
+Use the displayed exact crypto amount, address and QR code. Account for withdrawal fees so the required amount reaches the destination.
 
-Continue to see the destination address, network and amount. Copy the details or scan the QR code, then check them in the sending app before confirming. Do not reuse an address from this repository or from another customer's order.
+## 4. Send and register the real TXID
 
-## 5. Submit the TXID
+After broadcasting the transfer, enter its transaction hash and select **I have paid**. A plausible-looking or repeated hash is not proof of a new payment. Network, recipient, amount and duplicate checks still apply.
 
-After sending the transaction, enter its transaction ID and submit payment. Follow any additional wallet connection and authorization step shown for the selected plan. Read the actual authorization in the wallet before signing.
+Manual top-ups are credited after transaction review and administrator approval, with no fixed review-time promise. A blockchain-verified status and a wallet-credited status are separate. Connected-wallet transfers receive automatic credit only if the setting is enabled and verification succeeds.
 
-An external wallet connection or token authorization is a separate operation from transferring the order payment. Entering a plausible-looking TXID is not proof of payment.
+## 5. Continue to the order
 
-## 6. Follow payment and delivery status
+Funding alone does not purchase a product. After crediting, continue to checkout, confirm the delivery arrangement and pay from the spendable balance.
 
-The order can remain pending while the network, recipient address, amount and duplicate transaction checks are completed. Payment confirmation and product delivery are separate statuses. Keep the order reference and use the support channel on the website for order-specific help.
+The current monthly Gemini, Claude and Grok listings require a **TronLink renewal-contract signature** before purchase, even when the funding asset was Bitcoin or ETH. Review the signed payment cap, period, number of payments and cancellation terms. Network fees and the existing contract initialization transfer of **0.000001 USDT** are additional to the account-balance purchase.
 
-Never put recovery phrases, private keys or customer payment details in public GitHub issues. For more buying questions, read the [FAQ](FAQ.md).
+The first order is debited from AIOFFER credit after contract confirmation. The original funding TXID is not a second product payment. Subsequent collections follow the contract the customer signs.
+
+## 6. Follow delivery
+
+Check order and delivery status in your account and private ticket. If we cannot fulfill, deliver or activate your order for any reason, the full amount paid will be credited back to your AIOFFER wallet. Read the [refund policy](https://aioffer.shop/en/refund-policy) and [terms](https://aioffer.shop/en/terms).
+
+Never publish recovery phrases, private keys, passwords or private order details in GitHub issues. For plan-specific checks, see the [AI subscription checklist](AI-SUBSCRIPTIONS.md).

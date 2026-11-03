@@ -39,7 +39,7 @@ Review each product's features, plan details, price, and requirements before mak
 5. Keep your order details and any payment confirmation for reference.
 6. Follow the instructions provided for order fulfillment.
 
-The exact process may vary depending on the product and payment method.
+The [payment guide](CRYPTO-PAYMENTS.md) explains the current wallet-first flow, manual deposit approval and any required monthly contract step.
 
 ## 5. Which Payment Methods Are Supported?
 
@@ -79,11 +79,9 @@ Confirm regional availability and any relevant account requirements before order
 
 ## 10. Can I Request a Refund?
 
-Refund eligibility depends on the applicable refund policy, product type, and order circumstances.
+If we cannot fulfill, deliver or activate your order for any reason, the full amount paid will be credited back to your AIOFFER wallet.
 
-Review the current refund terms on AIOFFER before purchasing. If you have a problem with an order, contact the support channel listed on the website and include your order reference.
-
-Do not assume that all digital products are refundable under identical conditions.
+Read the [current refund policy](https://aioffer.shop/en/refund-policy) and contact support through your account for a particular order.
 
 ## 11. What Should I Do If My Order Has a Problem?
 
